@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-The goal of this project is to work with machine learning using unsupervised algorithms, and to explore data when we're not sure what we're looking for.
+The goal of this project is to work with machine learning using unsupervised algorithms to explore data when we're not sure what we're looking for and to create an analysis in preparation to get into the cryptocurrency market.
 
 The following task to complete:
 * To create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for new investment.
